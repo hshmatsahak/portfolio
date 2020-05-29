@@ -7,7 +7,7 @@ body {
     margin: 0;
 }
 
-p,ul{
+p,ul,form{
     margin-left: 100px;
     margin-right: 100px;
     font-size: 20px;
